@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# VSCode (如果你也用过)
+.vscode/
+
+# MacOS
+.DS_Store
